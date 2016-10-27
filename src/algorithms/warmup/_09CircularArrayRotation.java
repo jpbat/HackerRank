@@ -28,11 +28,12 @@ public class _09CircularArrayRotation {
         int[] a = new int[n];
 
         for(int i = 0; i < n; i++){
-            a[i] = in.nextInt();
+            a[(i + k) % n] = in.nextInt();
         }
 
         for(int i = 0; i < q; i++){
             int m = in.nextInt();
+            System.out.println(a[m]);
         }
 
         in.close();
