@@ -1,21 +1,8 @@
-package algorithms.warmup;
+package algorithms.warmup._06PlusMinus;
 
 import java.util.Scanner;
 
-/*
-	Sample Input	
-	6
-	-4 3 -9 0 4 1  
-	
-	Sample Output
-	0.500000
-	0.333333
-	0.166667
-*/
-
-public class _06PlusMinus {
-	
-	// https://puu.sh/rWRlR/034b773c74.png
+public class Solution {
 	
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);

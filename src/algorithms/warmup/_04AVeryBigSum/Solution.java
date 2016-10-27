@@ -1,22 +1,9 @@
-package algorithms.warmup;
+package algorithms.warmup._04AVeryBigSum;
 
 import java.util.Scanner;
 
-/*
-	Sample Input	
-	3
-	11 2 4
-	4 5 6
-	10 8 -12
-	
-	Sample Output
-	15
-*/
+public class Solution {
 
-public class _04AVeryBigSum {
-
-	// https://puu.sh/rWQsR/b446fce088.png
-	
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		

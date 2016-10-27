@@ -1,24 +1,8 @@
-package algorithms.warmup;
+package algorithms.warmup._09CircularArrayRotation;
 
 import java.util.Scanner;
 
-/*
-    Sample Input
-    3 2 3
-    1 2 3
-    0
-    1
-    2
-
-    Sample Output
-    2
-    3
-    1
-*/
-
-public class _09CircularArrayRotation {
-
-    // https://puu.sh/rWTg8/cc28309b42.png
+public class Solution {
 
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);

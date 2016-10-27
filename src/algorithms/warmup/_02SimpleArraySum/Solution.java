@@ -1,19 +1,8 @@
-package algorithms.warmup;
+package algorithms.warmup._02SimpleArraySum;
 
 import java.util.Scanner;
 
-/*
-	Sample Input	
-	5 6 7
-	3 6 10
-	
-	Sample Output
-	1 1 
-*/
-
-public class _02SimpleArraySum {
-	
-	// https://puu.sh/rWQ3O/272ccbed1a.png
+public class Solution {
 	
     public static void main(String[] args) {
         

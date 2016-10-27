@@ -1,20 +1,9 @@
-package algorithms.warmup;
+package algorithms.warmup._01SolveMeFirst;
 
 import java.util.*;
 
-/*
-	Sample Input	
-	6
-	1 2 3 4 10 11
+public class Solution {
 	
-	Sample Output
-	31
-*/
-
-public class _01SolveMeFirst {
-	
-	// https://puu.sh/rWQ2u/e21685db7d.png
-   
 	static int solveMeFirst(int a, int b) {
 		return a + b;
 	}

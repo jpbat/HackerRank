@@ -1,18 +1,8 @@
-package algorithms.implementation.easy;
+package algorithms.implementation.easy._01Kangaroo;
 
 import java.util.Scanner;
 
-/*
-	Sample Input	
-	0 3 4 2
-	
-	Sample Output
-	YES
-*/
-
-public class _01Kangaroo {
-	
-	// https://puu.sh/rXgIl/35db6350ef.png
+public class Solution {
 	
 	public static void main(String[] args) {
 		Scanner in = new Scanner(System.in);

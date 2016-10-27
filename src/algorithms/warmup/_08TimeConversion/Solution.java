@@ -1,18 +1,8 @@
-package algorithms.warmup;
+package algorithms.warmup._08TimeConversion;
 
 import java.util.Scanner;
 
-/*
-	Sample Input	
-	07:05:45PM
-	
-	Sample Output
-	19:05:45
-*/
-
-public class _08TimeConversion {
-	
-	// https://puu.sh/rWSee/ed315ec07e.png
+public class Solution {
 	
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);

@@ -1,23 +1,8 @@
-package algorithms.warmup;
+package algorithms.warmup._07Staircase;
 
 import java.util.Scanner;
 
-/*
-	Sample Input	
-	6  
-	
-	Sample Output
-	     #
-	    ##
-	   ###
-	  ####
-	 #####
-	######
-*/
-
-public class _07Staircase {
-	
-	// https://puu.sh/rWRHS/98cd1ac2c4.png
+public class Solution {
 	
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);

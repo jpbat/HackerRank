@@ -1,19 +1,8 @@
-package algorithms.warmup;
+package algorithms.warmup._03CompareTheTriplets;
 
 import java.util.Scanner;
 
-/*
-	Sample Input	
-	5
-	1000000001 1000000002 1000000003 1000000004 1000000005
-	
-	Sample Output
-	5000000015
-*/
-
-public class _03CompareTheTriplets {
-	
-	// https://puu.sh/rWQd4/e403615c92.png
+public class Solution {
 	
 	public static void main(String[] args) {
 		
