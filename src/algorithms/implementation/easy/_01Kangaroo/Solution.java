@@ -12,21 +12,20 @@ public class Solution {
         int v2 = in.nextInt();
         in.close();
         
-        long a, b;
-        try {
-        	if(v1 < v2) {
+        int a, b;
+    	if(v1 < v2) {
+            System.out.println("NO");
+        } else {
+            a = x2 - x1;
+            b = v1 - v2;
+            
+            if (a == 0 || b == 0) {
+            	System.out.println("NO");
+            } else if(a % b == 0) {
+                System.out.println("YES");
+            } else{
                 System.out.println("NO");
-            } else {
-                a = x2 - x1;
-                b = v1 - v2;
-                if(a % b == 0) {
-                    System.out.println("YES");
-                } else{
-                    System.out.println("NO");
-                }
             }
-		} catch (ArithmeticException e) {
-			System.out.println("NO");
-		} 
+        }
 	}
 }
