@@ -1,4 +1,4 @@
-package algorithms.implementation.easy._03DivisibleSumPairs;
+package algorithms.implementation.easy.DivisibleSumPairs;
 
 import java.util.Scanner;
 

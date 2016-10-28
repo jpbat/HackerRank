@@ -1,4 +1,4 @@
-package algorithms.warmup._07Staircase;
+package algorithms.warmup.Staircase;
 
 import java.util.Scanner;
 

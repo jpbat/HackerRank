@@ -1,4 +1,4 @@
-package algorithms.implementation.easy._02ViralAdvertising;
+package algorithms.implementation.easy.ViralAdvertising;
 
 import java.util.Scanner;
 

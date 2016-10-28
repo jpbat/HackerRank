@@ -1,4 +1,4 @@
-package algorithms.warmup._08TimeConversion;
+package algorithms.warmup.TimeConversion;
 
 import java.util.Scanner;
 

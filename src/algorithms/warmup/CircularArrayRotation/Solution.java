@@ -1,4 +1,4 @@
-package algorithms.warmup._09CircularArrayRotation;
+package algorithms.warmup.CircularArrayRotation;
 
 import java.util.Scanner;
 

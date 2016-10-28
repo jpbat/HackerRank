@@ -1,4 +1,4 @@
-package algorithms.warmup._04AVeryBigSum;
+package algorithms.warmup.AVeryBigSum;
 
 import java.util.Scanner;
 

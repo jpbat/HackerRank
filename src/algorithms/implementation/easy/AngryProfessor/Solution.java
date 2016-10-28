@@ -1,4 +1,4 @@
-package algorithms.implementation.easy._04AngryProfessor;
+package algorithms.implementation.easy.AngryProfessor;
 
 import java.util.Scanner;
 

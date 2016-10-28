@@ -1,4 +1,4 @@
-package algorithms.implementation.easy._01Kangaroo;
+package algorithms.implementation.easy.Kangaroo;
 
 import java.util.Scanner;
 

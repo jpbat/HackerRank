@@ -1,4 +1,4 @@
-package algorithms.warmup._02SimpleArraySum;
+package algorithms.warmup.SimpleArraySum;
 
 import java.util.Scanner;
 

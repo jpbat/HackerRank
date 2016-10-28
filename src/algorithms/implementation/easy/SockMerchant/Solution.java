@@ -1,4 +1,4 @@
-package algorithms.implementation.easy._06SockMerchant;
+package algorithms.implementation.easy.SockMerchant;
 
 import java.util.ArrayList;
 import java.util.Scanner;

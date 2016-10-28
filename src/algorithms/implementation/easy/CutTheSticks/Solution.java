@@ -1,4 +1,4 @@
-package algorithms.implementation.easy._05CutTheSticks;
+package algorithms.implementation.easy.CutTheSticks;
 
 import java.util.Scanner;
 
